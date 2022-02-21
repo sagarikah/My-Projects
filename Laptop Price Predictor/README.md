@@ -7,3 +7,6 @@
 This project predicts the price of a laptop for given input configurations using Regression algorithms.
 
 Project url : https://laptop-price-predictor-sh.herokuapp.com/
+
+![image](https://user-images.githubusercontent.com/76590161/154975191-d3314a07-83b1-4361-bd62-813766f79758.png)
+![image](https://user-images.githubusercontent.com/76590161/154975405-40cefcca-e79d-454e-8144-ba37470248ac.png)
