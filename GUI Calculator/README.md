@@ -1,4 +1,5 @@
 ## GUI Calculator
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
 - GUI Calculator which can perform basic mathematical operations.
 - Made using tkinter
