@@ -5,4 +5,7 @@
           
 - Javascript Project
 
-![image](https://user-images.githubusercontent.com/76590161/154942417-7e31133c-49c7-44c6-8455-ed2a74dabace.png)
+<p align="center">
+      <img src= 'https://user-images.githubusercontent.com/76590161/154942417-7e31133c-49c7-44c6-8455-ed2a74dabace.png'>
+</p>
+
